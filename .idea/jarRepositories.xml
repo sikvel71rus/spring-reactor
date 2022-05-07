@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="efs-snapshot" />
+      <option name="name" value="efs-snapshot" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/groups/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ufs-platform-snapshot" />
+      <option name="name" value="ufs-platform-snapshot" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/groups/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ufs-platform-release" />
+      <option name="name" value="ufs-platform-release" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/groups/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="ufs-platform-thirdparty" />
+      <option name="name" value="ufs-platform-thirdparty" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/groups/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="efs-release" />
+      <option name="name" value="efs-release" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/groups/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="PPRB-dependency-sigma" />
+      <option name="name" value="PPRB-dependency-sigma" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/groups/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://nexus.sigma.sbrf.ru/nexus/content/groups/public" />
+    </remote-repository>
+  </component>
+</project>
